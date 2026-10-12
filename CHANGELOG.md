@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-08)
+## Unreleased (2026-10-12)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`bf33e96`](https://github.com/stdlib-js/stdlib/commit/bf33e96297db9e2a73050ccb1c6e87726f1307da) - **docs:** fix heading levels [(#15939)](https://github.com/stdlib-js/stdlib/pull/15939) _(by Philipp Burckhardt)_
 -   [`e386223`](https://github.com/stdlib-js/stdlib/commit/e3862232d075065e24d38ab17c4a5676d99eeb13) - **chore:** clean-up native wrappers to ensure consistency with documented return value _(by Athan Reines)_
 -   [`f3dfe11`](https://github.com/stdlib-js/stdlib/commit/f3dfe11d51efdea95678b1d4a4c3f246d7883598) - **docs:** update descriptions _(by Athan Reines)_
 
@@ -25,9 +26,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
